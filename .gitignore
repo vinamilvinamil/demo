@@ -1,0 +1,10 @@
+/bootstrap/compiled.php
+/vendor
+/public/bower_components
+/public/node_modules
+composer.phar
+composer.lock  # Remove this one after you create a project
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
